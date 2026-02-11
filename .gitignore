@@ -1,0 +1,95 @@
+# VS Code
+.vscode/
+*.code-workspace
+
+# Go
+bin/
+dist/
+*.exe
+*.dll
+*.so
+*.dylib
+go.sum
+
+# .NET Framework
+bin/
+obj/
+*.dll
+*.pdb
+*.user
+*.suo
+.vs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# React
+node_modules/
+build/
+dist/
+*.log
+npm-debug.log*
+yarn-debug.log*
+.env.local
+.env.*.local
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+
+# Vue.js
+node_modules/
+dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Angular
+node_modules/
+dist/
+.angular/
+*.log
+npm-debug.log*
+
+# Java
+*.class
+*.jar
+*.war
+target/
+.gradle/
+build/
+
+# General
+.DS_Store
+.env
+.idea/
+*.swp
+*.swo
+*~
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+msbuild.log
+msbuild.err
+msbuild.wrn
