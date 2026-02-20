@@ -7,4 +7,5 @@ use (
 	./03_boolean_and_conditional_operations
 	./04_arrays_and_slices
 	./05_loops_and_iterations
+	./06_functions_and_methods
 )
