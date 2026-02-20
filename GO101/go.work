@@ -11,4 +11,5 @@ use (
 	./07_packages_and_modules
 	./08_maps
 	./09_pointers
+	./10_structs
 )
