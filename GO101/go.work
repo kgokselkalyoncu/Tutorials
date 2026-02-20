@@ -4,4 +4,5 @@ use (
 	./00_HelloWorld
 	./01_variables_and_data_types
 	./02_print_and_string_formatting
+	./03_boolean_and_conditional_operations
 )
