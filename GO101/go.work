@@ -12,4 +12,5 @@ use (
 	./08_maps
 	./09_pointers
 	./10_structs
+	./11_receivers
 )
