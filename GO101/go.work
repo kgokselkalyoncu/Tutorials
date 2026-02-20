@@ -13,4 +13,5 @@ use (
 	./09_pointers
 	./10_structs
 	./11_receivers
+	./12_user_input
 )
