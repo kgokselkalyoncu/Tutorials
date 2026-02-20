@@ -2,4 +2,5 @@ go 1.25.0
 
 use (
 	./00_HelloWorld
+	./01_variables_and_data_types
 )
