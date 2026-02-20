@@ -10,4 +10,5 @@ use (
 	./06_functions_and_methods
 	./07_packages_and_modules
 	./08_maps
+	./09_pointers
 )
