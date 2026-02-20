@@ -9,4 +9,5 @@ use (
 	./05_loops_and_iterations
 	./06_functions_and_methods
 	./07_packages_and_modules
+	./08_maps
 )
