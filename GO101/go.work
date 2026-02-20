@@ -6,4 +6,5 @@ use (
 	./02_print_and_string_formatting
 	./03_boolean_and_conditional_operations
 	./04_arrays_and_slices
+	./05_loops_and_iterations
 )
